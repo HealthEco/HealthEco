@@ -88,11 +88,131 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Icons\001-ambulance.png" />
+    <Content Include="Content\Icons\002-apple.png" />
+    <Content Include="Content\Icons\003-artificial.png" />
+    <Content Include="Content\Icons\004-blood.png" />
+    <Content Include="Content\Icons\005-blood-1.png" />
+    <Content Include="Content\Icons\006-blood-2.png" />
+    <Content Include="Content\Icons\007-blood-3.png" />
+    <Content Include="Content\Icons\008-blood-4.png" />
+    <Content Include="Content\Icons\009-blood-5.png" />
+    <Content Include="Content\Icons\010-blood-6.png" />
+    <Content Include="Content\Icons\011-tensiometer.png" />
+    <Content Include="Content\Icons\012-lifeline.png" />
+    <Content Include="Content\Icons\013-lifeline-1.png" />
+    <Content Include="Content\Icons\014-tensiometer-1.png" />
+    <Content Include="Content\Icons\015-lifeline-2.png" />
+    <Content Include="Content\Icons\016-calendar.png" />
+    <Content Include="Content\Icons\017-calendar-1.png" />
+    <Content Include="Content\Icons\018-call.png" />
+    <Content Include="Content\Icons\019-call-1.png" />
+    <Content Include="Content\Icons\020-call-2.png" />
+    <Content Include="Content\Icons\021-call-3.png" />
+    <Content Include="Content\Icons\022-cancer-ribbon.png" />
+    <Content Include="Content\Icons\023-machine.png" />
+    <Content Include="Content\Icons\024-dental-care.png" />
+    <Content Include="Content\Icons\025-dental-care-1.png" />
+    <Content Include="Content\Icons\026-doctor.png" />
+    <Content Include="Content\Icons\027-drips.png" />
+    <Content Include="Content\Icons\028-dropper.png" />
+    <Content Include="Content\Icons\029-emergency-call.png" />
+    <Content Include="Content\Icons\030-emergency.png" />
+    <Content Include="Content\Icons\031-eye.png" />
+    <Content Include="Content\Icons\032-eye-drop.png" />
+    <Content Include="Content\Icons\033-eye-1.png" />
+    <Content Include="Content\Icons\034-eye-2.png" />
+    <Content Include="Content\Icons\035-glucometer.png" />
+    <Content Include="Content\Icons\036-glucometer-1.png" />
+    <Content Include="Content\Icons\037-heart-beat.png" />
+    <Content Include="Content\Icons\038-heart.png" />
+    <Content Include="Content\Icons\039-heart-1.png" />
+    <Content Include="Content\Icons\040-heart-2.png" />
+    <Content Include="Content\Icons\041-heart-3.png" />
+    <Content Include="Content\Icons\042-heart-4.png" />
+    <Content Include="Content\Icons\043-heart-5.png" />
+    <Content Include="Content\Icons\044-heart-6.png" />
+    <Content Include="Content\Icons\045-hospital.png" />
+    <Content Include="Content\Icons\046-microscope.png" />
+    <Content Include="Content\Icons\047-kidney.png" />
+    <Content Include="Content\Icons\048-kidney-1.png" />
+    <Content Include="Content\Icons\049-test-tube.png" />
+    <Content Include="Content\Icons\050-test-tube-1.png" />
+    <Content Include="Content\Icons\051-flask.png" />
+    <Content Include="Content\Icons\052-doctor-1.png" />
+    <Content Include="Content\Icons\053-nurse.png" />
+    <Content Include="Content\Icons\054-liquid.png" />
+    <Content Include="Content\Icons\055-lungs.png" />
+    <Content Include="Content\Icons\056-lungs-1.png" />
+    <Content Include="Content\Icons\057-lungs-2.png" />
+    <Content Include="Content\Icons\058-lungs-3.png" />
+    <Content Include="Content\Icons\059-male.png" />
+    <Content Include="Content\Icons\060-nurse-1.png" />
+    <Content Include="Content\Icons\061-medical-care.png" />
+    <Content Include="Content\Icons\062-medical.png" />
+    <Content Include="Content\Icons\063-medical-1.png" />
+    <Content Include="Content\Icons\064-medical-2.png" />
+    <Content Include="Content\Icons\065-first-aid-kit.png" />
+    <Content Include="Content\Icons\066-mobile.png" />
+    <Content Include="Content\Icons\067-negative.png" />
+    <Content Include="Content\Icons\068-normal.png" />
+    <Content Include="Content\Icons\069-ointment.png" />
+    <Content Include="Content\Icons\070-operation.png" />
+    <Content Include="Content\Icons\071-operation-1.png" />
+    <Content Include="Content\Icons\072-oxygen.png" />
+    <Content Include="Content\Icons\073-patient.png" />
+    <Content Include="Content\Icons\074-positive.png" />
+    <Content Include="Content\Icons\075-records.png" />
+    <Content Include="Content\Icons\076-recovered.png" />
+    <Content Include="Content\Icons\077-scan.png" />
+    <Content Include="Content\Icons\078-scissor.png" />
+    <Content Include="Content\Icons\079-scissor-1.png" />
+    <Content Include="Content\Icons\080-search.png" />
+    <Content Include="Content\Icons\081-search-1.png" />
+    <Content Include="Content\Icons\082-search-2.png" />
+    <Content Include="Content\Icons\083-stethoscope.png" />
+    <Content Include="Content\Icons\084-stretcher.png" />
+    <Content Include="Content\Icons\085-stretcher-1.png" />
+    <Content Include="Content\Icons\086-knives.png" />
+    <Content Include="Content\Icons\087-syringe.png" />
+    <Content Include="Content\Icons\088-tablets.png" />
+    <Content Include="Content\Icons\089-tablets-1.png" />
+    <Content Include="Content\Icons\090-tablets-2.png" />
+    <Content Include="Content\Icons\091-tablets-3.png" />
+    <Content Include="Content\Icons\092-teeth.png" />
+    <Content Include="Content\Icons\093-thermometer.png" />
+    <Content Include="Content\Icons\094-tooth.png" />
+    <Content Include="Content\Icons\095-tooth-1.png" />
+    <Content Include="Content\Icons\096-tooth-2.png" />
+    <Content Include="Content\Icons\097-weight-scale.png" />
+    <Content Include="Content\Icons\098-weight-scale-1.png" />
+    <Content Include="Content\Icons\099-wheelchair.png" />
+    <Content Include="Content\Icons\100-wheelchair-1.png" />
+    <Content Include="Content\Site.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <Content Include="Scripts\main\main.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\moment-with-locales.js" />
+    <Content Include="Scripts\moment-with-locales.min.js" />
+    <Content Include="Scripts\moment.js" />
+    <Content Include="Scripts\moment.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -100,7 +220,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -110,7 +243,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
